@@ -17,11 +17,9 @@ Project Structure:
 StudentResultApp/
 │
 ├── src/
-│   ├── Student.java
-│   ├── ResultCalculator.java
-│   └── Main.java
-│
-└── README.md
+|     ├── Main.java
+├── WebContent
+     └── index.html
 
 Technologies Used:
 Java SE 8+
